@@ -26,6 +26,7 @@ public:
     
     find
     get_value
+    find_longest_prefix
     
     struct search_iterator
     {
