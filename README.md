@@ -32,3 +32,7 @@
 1. Кнут Д. Искусство программирования. Том 3. Сортировка и поиск
 1. [Unrolled linked lists](https://blogs.msdn.microsoft.com/devdev/2005/08/22/unrolled-linked-lists/)
 1. [Префиксное дерево](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D1%84%D0%B8%D0%BA%D1%81%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE)
+
+## Тестовый вариант
+* задание - [array](array.md)
+* решение - [solution](solution)
